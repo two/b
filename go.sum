@@ -1,4 +1,8 @@
 github.com/two/d v1.1.0 h1:io9VylEfj/rBxrn/EZc/Flpzhq+NEoqjMe+lBRUo7J8=
 github.com/two/d v1.1.0/go.mod h1:Nde+XpUk5Zs9VUjnXumChAflVD4SfldjY7RnqFEJ1xo=
+github.com/two/d v1.3.0 h1:CowHIy3VdlGGBzmobCQXjS+8xkvAwTXqGJOEdSODwPQ=
+github.com/two/d v1.3.0/go.mod h1:fAg6MyXvtnCUuov3tcLoCmXTV7c99ECaEKVw442oC/c=
 github.com/two/e v1.1.0 h1:S83wrZo3iStLPWh+tPoINMWlSQUi8eDab6ie2vplclc=
 github.com/two/e v1.1.0/go.mod h1:RczHMX2xzAngm2z2jYPtHRxyJWl99oJDlZI7RHy7zfo=
+github.com/two/e v1.2.0 h1:jJIqW7+D0MJh8g5B1amYojQvtQdhKsYqEe17QWU6oEw=
+github.com/two/e v1.2.0/go.mod h1:RczHMX2xzAngm2z2jYPtHRxyJWl99oJDlZI7RHy7zfo=
